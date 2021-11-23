@@ -54,9 +54,9 @@
 
 ## GitHub Stats
 
-<img align="left" alt="syhmi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
 
-<img align="left" alt="syhmi GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
 
 [website]: https://above-infinite.com
 [twitter]: https://twitter.com/hasyihori
