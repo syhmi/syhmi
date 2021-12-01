@@ -54,7 +54,7 @@
 
 ## GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple&count_private=true&custom_title=My%20Stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple" />
 
