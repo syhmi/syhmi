@@ -11,8 +11,8 @@
 
 - 👋 Hi, I'm Syahmi!
 - 🌏 From Malaysia
-- 👨‍🎓 A full time student
-- 🌱 Currently learning to create application
+- 👨🏻‍💻 A full time software developer and a part time student
+- 🌱 Currently learning NoSQL, load balancing and server deployment
   <!-- - 👀 I'm interested in -->
   <!-- - 📫 You can reach me  -->
 
@@ -20,9 +20,8 @@
 
 ## Socials
 
-[<img src="https://img.shields.io/badge/hasyihori-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" title="Syahmi's Twitter" />][twitter]
-[<img src="https://img.shields.io/badge/hasyihori-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Syahmi's Instagram" />][instagram]
-
+[<img src="https://img.shields.io/badge/hasyihori-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white" title="X" />][x]
+[<img src="https://img.shields.io/badge/hasyihori-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram" />][instagram]
 <br />
 
 ## Operating System
@@ -36,25 +35,38 @@
 
 ## Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br />
 
 ## Frameworks, Platforms and Libraries
 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <br />
 
@@ -70,5 +82,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=syhmi&show_icons=true&hide_border=true&theme=shades-of-purple&count_private=true&custom_title=My%20Stats" />
 
-[twitter]: https://twitter.com/hasyihori
+[x]: https://x.com/hasyihori
 [instagram]: https://instagram.com/hasyihori
