@@ -20,7 +20,7 @@
 
 ## Socials
 
-[<img src="https://img.shields.io/badge/hasyihori-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white" title="X" />][x]
+[<img src="https://img.shields.io/badge/hasyihori-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" title="X" />][x]
 [<img src="https://img.shields.io/badge/hasyihori-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram" />][instagram]
 <br />
 
